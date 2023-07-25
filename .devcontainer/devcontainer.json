@@ -1,0 +1,10 @@
+{
+    "name": "Skill Develeopment Area",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
